@@ -4,12 +4,12 @@
 //true value--> "sdsfsd", 23456, true, {}
 
 const test = 'Shanjida'
-// if(test){
-//   console.log('Its a truthy value')
-// }
-// else{
-//   console.log('Falsy Value')
-// }
+ if(test){
+  console.log('Its a truthy value')
+}
+ else{
+  console.log('Falsy Value')
+ }
 
 //ternary operator
 
